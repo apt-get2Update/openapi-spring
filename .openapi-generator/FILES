@@ -1,0 +1,13 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/com/poc/codegen/OpenAPI2SpringBoot.java
+src/main/java/com/poc/codegen/RFC3339DateFormat.java
+src/main/java/com/poc/codegen/config/HomeController.java
+src/main/java/com/poc/codegen/config/OpenAPIDocumentationConfig.java
+src/main/java/com/poc/codegen/controllers/ApiUtil.java
+src/main/java/com/poc/codegen/controllers/UserApi.java
+src/main/java/com/poc/codegen/controllers/UserApiController.java
+src/main/java/com/poc/codegen/model/ModelApiResponse.java
+src/main/java/com/poc/codegen/model/User.java
+src/main/resources/application.properties
